@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Optional: if you store local configuration or secrets
+*.env
+
+# Node modules if you have any frontend dependencies
+node_modules/

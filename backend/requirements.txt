@@ -1,0 +1,6 @@
+flask
+flask-cors
+duckduckgo_search
+transformers
+torch
+regex
