@@ -34,7 +34,6 @@ mini_web_summarizer/
 
 Install dependencies by running:
 
-```bash
 cd mini_web_summarizer/backend
 pip install -r requirements.txt
 
